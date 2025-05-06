@@ -48,3 +48,8 @@ extra_javascript:
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css # katex.min.css 数学公式
 
+nav:
+  - Home: index.md
+  - A阶段:
+    - 第一课:
+      - 贵州邀请赛: A/A-A/about.md
