@@ -3,6 +3,8 @@
 <iframe src="../2025ICPC贵州省赛邀请函.pdf" width="100%" height="800px" style="border: 1px solid #ccc; overflow: auto;"></iframe>
 
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114435309965962&bvid=BV1iPVgzqE4e&cid=29744366234&p=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="no" width="100%" height="450px" autoplay=false></iframe>
+
 # 线性代数
 
 ## 矩阵乘法
