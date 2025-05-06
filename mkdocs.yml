@@ -1,0 +1,50 @@
+site_name: My Docs
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  
+  palette: # 调色板
+    - media: "(prefers-color-scheme: light)" # 浅色
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # 深色
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+  features: # 功能
+    - navigation.sections
+    - navigation.tabs # 打开导航标签
+    - navigation.tabs.sticky # 启动粘性标签，当向下滚动的时候导航不会消失
+    - navigation.top # 返回顶部按钮
+
+    - content.code.copy # 代码复制按钮
+
+markdown_extensions: # Markdown 扩展
+  - pymdownx.arithmatex: # 数学公式
+      generic: true
+
+  # 代码高亮
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra_javascript:
+  - javascripts/katex.js # katex.js 数学公式
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css # katex.min.css 数学公式
+
