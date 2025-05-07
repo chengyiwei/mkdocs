@@ -27,6 +27,8 @@ theme:
 
     - content.code.copy # 代码复制按钮
 
+    - navigation.footer # 页脚
+
 markdown_extensions: # Markdown 扩展
   - pymdownx.arithmatex: # 数学公式
       generic: true
@@ -54,3 +56,9 @@ nav:
     - 图论:
       - Lecture-1 : B/graph/lecture-1.md
       - Lab-1 : B/graph/lab-1.md
+      - Lecture-2 : B/graph/lecture-2.md
+      - Lab-2 : B/graph/lab-2.md
+      - Lecture-3 : B/graph/lecture-3.md
+      - Lab-3 : B/graph/lab-3.md
+      - Lecture-4 : B/graph/lecture-4.md
+      - Lab-4 : B/graph/lab-4.md

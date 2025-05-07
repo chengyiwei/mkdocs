@@ -1,13 +1,13 @@
 ## Exercise 1
 
-尝试回答下列问题，把答案写在 `B-graph-lab-1.md` 中的对应部分
+尝试回答下列问题
 
 1. 在一般的算法题中，我们常使用那种方式来存图。
 2. 如何使用并查集判断一个无向图有几个联通块
 
 ## Exercise 2
 
-完成下列习题，并把 AC 代码复制到 `B-graph-lab-1.md` 中
+完成下列习题
 
 - [How Many Tables](https://vjudge.net/problem/HDU-1213) 并查集
 - [最长路](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P1807) 树的直径
