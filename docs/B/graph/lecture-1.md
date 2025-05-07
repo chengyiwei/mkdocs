@@ -4,7 +4,7 @@
 
 接下来，让我们和山大ACMer一起学习吧
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113894999720663&bvid=BV1ntfzYPEMb&cid=28095088009&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px" autoplay=false></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113894999720663&bvid=BV1ntfzYPEMb&cid=28095088009&p=1&autoplay=0" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
 
 你看了视频之后，对下列知识点掌握了多少了呢？
 

@@ -6,7 +6,7 @@
 
 给出一个图，你能用什么办法得到从 A 到 B 的最短路径呢？
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113927212044246&bvid=BV1GkFoerExA&cid=28172029479&p=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113927212044246&bvid=BV1GkFoerExA&cid=28172029479&p=2&autoplay=0" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
 
 你一定已经掌握了一下算法了吧
 

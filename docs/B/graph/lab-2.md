@@ -19,7 +19,7 @@
 
 ## Exercise 3 分层图最短路
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=810378270&bvid=BV1m34y1s7sV&cid=570237524&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true", width="100%" height="400px"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=810378270&bvid=BV1m34y1s7sV&cid=570237524&p=1&autoplay=0" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true", width="100%" height="400px"></iframe>
 
 - [飞行路线](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P4568)
 
@@ -27,7 +27,9 @@
 
 我找了一个视频还不错，就是有点长，也可以自己找博客学习
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113091488514652&bvid=BV1iNH9eREG3&cid=25626679244&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113091488514652&bvid=BV1iNH9eREG3&cid=25626679244&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
+
+然后完成下列习题
 
 - [负环](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P3385)
 - [【模板】差分约束](https://www.luogu.com.cn/problem/P5960)
