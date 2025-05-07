@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: XCPC自学指北
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -49,7 +49,8 @@ extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css # katex.min.css 数学公式
 
 nav:
-  - Home: index.md
-  - A阶段:
-    - 第一课:
-      - 贵州邀请赛: A/A-A/about.md
+  - 简介: index.md
+  - B阶段:
+    - 图论:
+      - Lecture-1 : B/graph/lecture-1.md
+      - Lab-1 : B/graph/lab-1.md

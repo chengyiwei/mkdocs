@@ -1,18 +1,5 @@
-# Welcome to MkDocs
+# XCPC 自学指北
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这是一本献给 xcpc-er 的书
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
+## B 阶段 - 算法基础
