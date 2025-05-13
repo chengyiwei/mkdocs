@@ -20,10 +20,11 @@ theme:
         name: Switch to system preference
 
   features: # 功能
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs # 打开导航标签
-    - navigation.tabs.sticky # 启动粘性标签，当向下滚动的时候导航不会消失
+    # - navigation.tabs.sticky # 启动粘性标签，当向下滚动的时候导航不会消失
     - navigation.top # 返回顶部按钮
+    
 
     - content.code.copy # 代码复制按钮
 
@@ -52,14 +53,22 @@ extra_css:
 
 nav:
   - 简介: index.md
-  - B阶段:
+  - 预学习:
+    - 对拍器:
+      - Lecture 1 : A/check/lecture-1.md
+      - Lab 1 : A/check/lab-1.md
+  - 算法入门:
     - 图论:
-      - Lecture-1 : B/graph/lecture-1.md
-      - Lab-1 : B/graph/lab-1.md
-      - Lecture-2 : B/graph/lecture-2.md
-      - Lab-2 : B/graph/lab-2.md
-      - Lecture-3 : B/graph/lecture-3.md
-      - Lab-3 : B/graph/lab-3.md
-      - Lecture-4 : B/graph/lecture-4.md
-      - Lab-4 : B/graph/lab-4.md
-      - Homework-1 : B/graph/homework-1.md
+      - Lecture 1 : B/graph/lecture-1.md
+      - Lab 1 : B/graph/lab-1.md
+      - Lecture 2 : B/graph/lecture-2.md
+      - Lab 2 : B/graph/lab-2.md
+      - Lecture 3 : B/graph/lecture-3.md
+      - Lab 3 : B/graph/lab-3.md
+      - Lecture 4 : B/graph/lecture-4.md
+      - Lab 4 : B/graph/lab-4.md
+      - Homework 1 : B/graph/homework-1.md
+    - 字符串:
+      - Lecture 1 : B/string/lecture-1.md
+      - Lab 1 : B/string/lab-1.md
+      - Homework 1 : B/string/homework-1.md

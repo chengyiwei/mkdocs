@@ -10,7 +10,6 @@
 
 ## Exercise 2
 
-
 - [单源最短路径（弱化版）](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P3371)
 - [最短路计数](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P1144)
 - [佳佳的魔法药水](https://vjudge.net/problem/%E6%B4%9B%E8%B0%B7-P1875)
