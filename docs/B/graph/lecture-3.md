@@ -8,4 +8,3 @@ MST，PRIM？？到底是什么呢
 
 - Prim 算法
 - Kruskal 算法
-

@@ -58,6 +58,10 @@ nav:
       - Lecture 1 : A/check/lecture-1.md
       - Lab 1 : A/check/lab-1.md
   - 算法入门:
+    - 动态规划:
+      - Lecture 1 : B/dp/lecture-1.md
+      - Lecture 2 : B/dp/lecture-2.md
+      - Lab 2 : B/dp/lab-2.md
     - 图论:
       - Lecture 1 : B/graph/lecture-1.md
       - Lab 1 : B/graph/lab-1.md
