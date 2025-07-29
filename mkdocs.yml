@@ -54,9 +54,38 @@ extra_css:
 nav:
   - 简介: index.md
   - 预学习:
-    - 对拍器:
-      - Lecture 1 : A/check/lecture-1.md
-      - Lab 1 : A/check/lab-1.md
+    - 开始:
+      - Lecture 1 : A/1-introduce/lecture-1.md
+    - HelloWorld:
+      - Lecture 1 : A/2-helloworld/lecture-1.md
+      - Lab 1 : A/2-helloworld/lab-1.md
+    - 运算符:
+      - Lecture 1 : A/3-a+b/lecture-1.md
+      - Lecture 2: A/3-a+b/lecture-2.md
+      - Lab 1 : A/3-a+b/lab-1.md
+    - 条件语句:
+      - Lecture 1 : A/4-if/lecture-1.md
+      - Lab 1 : A/4-if/lab-1.md
+    - 循环语句:
+      - Lecture 1 : A/5-for/lecture-1.md
+      - Lab 1 : A/5-for/lab-1.md
+    - 数组:
+      - Lecture 1 : A/6-array/lecture-1.md
+      - Lab 1 : A/6-array/lab-1.md
+      - Lecture 2 : A/6-array/lecture-2.md
+      - Lab 2 : A/6-array/lab-2.md
+    - 字符串:
+      - Lecture 1 : A/7-string/lecture-1.md
+      - Lab 1 : A/7-string/lab-1.md
+    - 函数:
+      - Lecture 1 : A/8-function/lecture-1.md
+      - Lab 1 : A/8-function/lab-1.md
+    - 递归:
+      - Lecture 1 : A/9-recursion/lecture-1.md
+      - Lab 1 : A/9-recursion/lab-1.md
+    - 模拟:
+      - Lecture 1 : A/10-simulation/lecture-1.md
+      - Lab 1 : A/10-simulation/lab-1.md
   - 算法入门:
     - 动态规划:
       - Lecture 1 : B/dp/lecture-1.md
@@ -76,3 +105,6 @@ nav:
       - Lecture 1 : B/string/lecture-1.md
       - Lab 1 : B/string/lab-1.md
       - Homework 1 : B/string/homework-1.md
+    - 对拍器:
+      - Lecture 1 : B/check/lecture-1.md
+      - Lab 1 : B/check/lab-1.md
