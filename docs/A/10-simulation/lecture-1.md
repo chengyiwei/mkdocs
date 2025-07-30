@@ -16,6 +16,4 @@
 autoplay=0" scrolling="no" framespacing="0" allowfullscreen="true"  width="100%" height="400px">></iframe>
 
 
-
-
 >"最真实的模拟往往存在于边界条件之外，就像我对你的思念永远无法收敛" ——《Infinite Loop》终章
