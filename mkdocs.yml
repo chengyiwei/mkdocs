@@ -75,19 +75,18 @@ nav:
       - 课程 6-1 : A/6-array/lecture-1.md
       - 实验 6-1 : A/6-array/lab-1.md
       - 课程 6-2 : A/6-array/lecture-2.md
-      - 实验 6-2 : A/6-array/lab-2.md
     - 字符串:
       - 课程 7-1 : A/7-string/lecture-1.md
       - 实验 7-1 : A/7-string/lab-1.md
     - 函数:
       - 课程 8-1 : A/8-function/lecture-1.md
       - 实验 8-1 : A/8-function/lab-1.md
-    - 递归:
-      - 课程 9-1 : A/9-recursion/lecture-1.md
-      - 实验 9-1 : A/9-recursion/lab-1.md
     - 模拟:
-      - 课程 10-1 : A/10-simulation/lecture-1.md
-      - 实验 10-1 : A/10-simulation/lab-1.md
+      - 课程 9-1 : A/9-simulation/lecture-1.md
+      - 实验 9-1 : A/9-simulation/lab-1.md
+    - 递归:
+      - 课程 10-1 : A/10-recursion/lecture-1.md
+      - 实验 10-1 : A/10-recursion/lab-1.md
   - 算法入门:
     - 动态规划:
       - Lecture 1 : B/dp/lecture-1.md
