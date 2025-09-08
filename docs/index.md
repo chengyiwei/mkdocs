@@ -22,7 +22,7 @@
 
 ## 算法学习的三个阶段
 
-见这篇博客：[零基础如何自学 XCPC](https://martian148.xyz/pages/91d78e/)
+见这篇博客：[零基础如何自学 XCPC](https://martian148.com/pages/91d78e/)
 
 1. A 阶段（预学习阶段）：对应语法入门
 2. B 阶段：对应算法入门
